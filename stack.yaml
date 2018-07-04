@@ -1,6 +1,7 @@
 resolver: lts-9.6
 packages:
   - .
-extra-deps: []
+extra-deps: 
+  - ghcjs-base-stub-0.2.0.0
 flags: {}
 extra-package-dbs: []
